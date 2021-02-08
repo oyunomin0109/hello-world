@@ -1,2 +1,2 @@
 # hello-world
-hello world plugin(pmmp)
+コンソールにhello worldと表示させるplugin(pocketmine-mp)
